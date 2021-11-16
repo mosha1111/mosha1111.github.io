@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 1px solid red;
+}
+li{
+    list-style-type: none;
+}
+html,
+body {
+  min-height: 100%;
+  height: auto;
+}
+
